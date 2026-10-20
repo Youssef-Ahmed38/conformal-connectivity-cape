@@ -1,0 +1,6 @@
+This project's own code is MIT-licensed (see LICENSE).
+
+Third-party components are not covered by this license: the official CAPE
+implementation (MIT, NeuraVision Lab) and the Segment Anything ViT-B weights
+(Apache-2.0, Meta) are downloaded by setup_data.py under their own licenses;
+the DRIVE and Massachusetts Roads datasets are subject to their providers' terms.

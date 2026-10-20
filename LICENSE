@@ -19,8 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-Third-party components are not covered by this license: the official CAPE
-implementation (MIT, NeuraVision Lab) and the Segment Anything ViT-B weights
-(Apache-2.0, Meta) are downloaded by setup_data.py under their own licenses;
-the DRIVE and Massachusetts Roads datasets are subject to their providers' terms.
