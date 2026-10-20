@@ -1,0 +1,6 @@
+# Normalise line endings in the repository (shell scripts break with CRLF)
+* text=auto eol=lf
+*.ps1 text eol=crlf
+*.png binary
+*.pdf binary
+*.jpg binary
