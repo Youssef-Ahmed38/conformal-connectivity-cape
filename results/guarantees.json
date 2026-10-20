@@ -1,0 +1,852 @@
+{
+ "crc": {
+  "drive/dice": {
+   "bn": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.018970000000000004,
+     "risk_max_img": 0.03245666666666667,
+     "trusted": 0.6627275,
+     "flagged": 0.3372725,
+     "errors_flagged": 0.6289906140078037,
+     "cap_binding": 0.0,
+     "risk_std": 0.005540927519628621
+    }
+   },
+   "mc": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.013247499999999999,
+     "risk_max_img": 0.02524666666666666,
+     "trusted": 0.6256391666666666,
+     "flagged": 0.3743608333333334,
+     "errors_flagged": 0.7722002122013336,
+     "cap_binding": 0.0,
+     "risk_std": 0.004067750111821303
+    }
+   },
+   "mcbn": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.03935333333333333,
+     "risk_max_img": 0.0591,
+     "trusted": 0.7214791666666664,
+     "flagged": 0.2785208333333333,
+     "errors_flagged": 0.5316842358460128,
+     "cap_binding": 0.0,
+     "risk_std": 0.011123012431691136
+    }
+   }
+  },
+  "drive/cldice": {
+   "bn": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.01827916666666667,
+     "risk_max_img": 0.0317,
+     "trusted": 0.6438575000000002,
+     "flagged": 0.3561425,
+     "errors_flagged": 0.7548390041018377,
+     "cap_binding": 0.0,
+     "risk_std": 0.00650482059492975
+    }
+   },
+   "mc": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.017337500000000002,
+     "risk_max_img": 0.031766666666666665,
+     "trusted": 0.6387616666666667,
+     "flagged": 0.3612383333333332,
+     "errors_flagged": 0.7739787402296875,
+     "cap_binding": 0.0,
+     "risk_std": 0.004653677980909294
+    }
+   },
+   "mcbn": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.035084166666666666,
+     "risk_max_img": 0.05295333333333334,
+     "trusted": 0.6883925,
+     "flagged": 0.3116075,
+     "errors_flagged": 0.6589022986180919,
+     "cap_binding": 0.0,
+     "risk_std": 0.016275887477936322
+    }
+   }
+  },
+  "drive/cape": {
+   "bn": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.01952,
+     "risk_max_img": 0.0352,
+     "trusted": 0.6745358333333334,
+     "flagged": 0.3254641666666666,
+     "errors_flagged": 0.7867414463030998,
+     "cap_binding": 0.0,
+     "risk_std": 0.0061467371651777805
+    }
+   },
+   "mc": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.02005833333333333,
+     "risk_max_img": 0.035763333333333334,
+     "trusted": 0.6792808333333332,
+     "flagged": 0.32071916666666667,
+     "errors_flagged": 0.762535591470135,
+     "cap_binding": 0.0,
+     "risk_std": 0.006115366573913074
+    }
+   },
+   "mcbn": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.02044083333333333,
+     "risk_max_img": 0.03614333333333333,
+     "trusted": 0.67956,
+     "flagged": 0.32044000000000006,
+     "errors_flagged": 0.7623709056191124,
+     "cap_binding": 0.0,
+     "risk_std": 0.006098477667509418
+    }
+   }
+  },
+  "drive-sparse/sp_none": {
+   "bn": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.021678333333333338,
+     "risk_max_img": 0.038483333333333335,
+     "trusted": 0.44419250000000005,
+     "flagged": 0.5558074999999999,
+     "errors_flagged": 0.8700664616978177,
+     "cap_binding": 0.0,
+     "risk_std": 0.007627472458889058
+    }
+   },
+   "mc": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.02151333333333334,
+     "risk_max_img": 0.03787666666666668,
+     "trusted": 0.4353933333333334,
+     "flagged": 0.5646066666666666,
+     "errors_flagged": 0.8899450267753041,
+     "cap_binding": 0.0,
+     "risk_std": 0.00744614665447841
+    }
+   },
+   "mcbn": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.022246666666666658,
+     "risk_max_img": 0.03913333333333333,
+     "trusted": 0.44813916666666664,
+     "flagged": 0.5518608333333334,
+     "errors_flagged": 0.8620920061032826,
+     "cap_binding": 0.0,
+     "risk_std": 0.008042127966043703
+    }
+   }
+  },
+  "drive-sparse/sp_random": {
+   "bn": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.0194175,
+     "risk_max_img": 0.029943333333333332,
+     "trusted": 0.5424424999999999,
+     "flagged": 0.4575574999999999,
+     "errors_flagged": 0.8692008376396365,
+     "cap_binding": 0.0,
+     "risk_std": 0.0050658098919236115
+    }
+   },
+   "mc": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.019636666666666667,
+     "risk_max_img": 0.030106666666666667,
+     "trusted": 0.5445741666666666,
+     "flagged": 0.4554258333333334,
+     "errors_flagged": 0.8636793746610485,
+     "cap_binding": 0.0,
+     "risk_std": 0.004493614605439836
+    }
+   },
+   "mcbn": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.0205425,
+     "risk_max_img": 0.030566666666666673,
+     "trusted": 0.5489858333333333,
+     "flagged": 0.4510141666666667,
+     "errors_flagged": 0.8521508328720802,
+     "cap_binding": 0.0,
+     "risk_std": 0.004768552875640342
+    }
+   }
+  },
+  "drive-sparse/sp_unc": {
+   "bn": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.02016833333333333,
+     "risk_max_img": 0.031163333333333335,
+     "trusted": 0.5383491666666665,
+     "flagged": 0.4616508333333334,
+     "errors_flagged": 0.9182831297744117,
+     "cap_binding": 0.0,
+     "risk_std": 0.006012070959513221
+    }
+   },
+   "mc": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.021443333333333335,
+     "risk_max_img": 0.030860000000000002,
+     "trusted": 0.5509324999999999,
+     "flagged": 0.4490675,
+     "errors_flagged": 0.913739383147272,
+     "cap_binding": 0.0,
+     "risk_std": 0.004677931047898086
+    }
+   },
+   "mcbn": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.02174,
+     "risk_max_img": 0.031803333333333336,
+     "trusted": 0.55205,
+     "flagged": 0.44794999999999996,
+     "errors_flagged": 0.9127229806965738,
+     "cap_binding": 0.0,
+     "risk_std": 0.004890570291671287
+    }
+   }
+  },
+  "roads/unet_roads_sp": {
+   "bn": {
+    "0.05": {
+     "risk": 0.013975818291829716,
+     "risk_max_img": 0.13097703363914373,
+     "trusted": 0.6313100703630457,
+     "flagged": 0.3686899296369544,
+     "errors_flagged": 0.9413547323681513,
+     "cap_binding": 0.0,
+     "risk_std": 0.007429626613966085
+    },
+    "0.1": {
+     "risk": 0.03747732431124825,
+     "risk_max_img": 0.2514857798165137,
+     "trusted": 0.77744641819836,
+     "flagged": 0.22255358180163998,
+     "errors_flagged": 0.6060407208047655,
+     "cap_binding": 0.0,
+     "risk_std": 0.013002977214148078
+    }
+   },
+   "mc": {
+    "0.05": {
+     "risk": 0.011978909577659387,
+     "risk_max_img": 0.12254828746177371,
+     "trusted": 0.4585510679768408,
+     "flagged": 0.5414489320231592,
+     "errors_flagged": 0.9497096170839644,
+     "cap_binding": 0.0,
+     "risk_std": 0.009501618237459604
+    },
+    "0.1": {
+     "risk": 0.027076728271592153,
+     "risk_max_img": 0.23771155963302754,
+     "trusted": 0.7239077240273724,
+     "flagged": 0.2760922759726274,
+     "errors_flagged": 0.7794758733895217,
+     "cap_binding": 0.0,
+     "risk_std": 0.00559703796841976
+    }
+   },
+   "mcbn": {
+    "0.05": {
+     "risk": 0.025330808734369402,
+     "risk_max_img": 0.15114819571865443,
+     "trusted": 0.6635132740944836,
+     "flagged": 0.33648672590551626,
+     "errors_flagged": 0.8928689061004742,
+     "cap_binding": 0.0,
+     "risk_std": 0.00798014889401045
+    },
+    "0.1": {
+     "risk": 0.07639318791186751,
+     "risk_max_img": 0.26749266055045867,
+     "trusted": 0.8489677388217141,
+     "flagged": 0.15103226117828594,
+     "errors_flagged": 0.41171721821546214,
+     "cap_binding": 0.0,
+     "risk_std": 0.015869505113288166
+    }
+   }
+  },
+  "roads/toposam_roads_scratch": {
+   "bn": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.03758117101542997,
+     "risk_max_img": 0.2362928323699422,
+     "trusted": 0.6316755260020982,
+     "flagged": 0.36832447399790175,
+     "errors_flagged": 0.8469831890097538,
+     "cap_binding": 0.0,
+     "risk_std": 0.01926597686560002
+    }
+   },
+   "mc": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.0024401489403153937,
+     "risk_max_img": 0.00859,
+     "trusted": 0.024194558252985495,
+     "flagged": 0.9758054417470146,
+     "errors_flagged": 0.9900754181855939,
+     "cap_binding": 0.0,
+     "risk_std": 0.013887306709635767
+    }
+   },
+   "mcbn": {
+    "0.05": {
+     "risk": 0.0036293187702265374,
+     "risk_max_img": 0.02755666666666667,
+     "trusted": 0.05974539743105058,
+     "flagged": 0.9402546025689494,
+     "errors_flagged": 0.9854017377789235,
+     "cap_binding": 0.0,
+     "risk_std": 0.009929411845719145
+    },
+    "0.1": {
+     "risk": 0.043038568791971536,
+     "risk_max_img": 0.2455182080924855,
+     "trusted": 0.6664628974245634,
+     "flagged": 0.33353710257543673,
+     "errors_flagged": 0.8260991429251606,
+     "cap_binding": 0.0,
+     "risk_std": 0.021493593591424446
+    }
+   }
+  },
+  "roads/toposam_roads_fs": {
+   "bn": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.03478833685854736,
+     "risk_max_img": 0.2117460244648318,
+     "trusted": 0.5648129714499865,
+     "flagged": 0.43518702855001334,
+     "errors_flagged": 0.8434367240909917,
+     "cap_binding": 0.0,
+     "risk_std": 0.02199388437389549
+    }
+   },
+   "mc": {
+    "0.05": {
+     "risk": 0.0,
+     "risk_max_img": 0.0,
+     "trusted": 0.0,
+     "flagged": 1.0,
+     "errors_flagged": 1.0,
+     "cap_binding": 0.0,
+     "risk_std": 0.0
+    },
+    "0.1": {
+     "risk": 0.010900642412533306,
+     "risk_max_img": 0.044533333333333334,
+     "trusted": 0.12977696392192936,
+     "flagged": 0.8702230360780706,
+     "errors_flagged": 0.9476894774228434,
+     "cap_binding": 0.0,
+     "risk_std": 0.025112951966362096
+    }
+   },
+   "mcbn": {
+    "0.05": {
+     "risk": 0.007675493734053729,
+     "risk_max_img": 0.1002,
+     "trusted": 0.17874943002039015,
+     "flagged": 0.82125056997961,
+     "errors_flagged": 0.9659862596376498,
+     "cap_binding": 0.0,
+     "risk_std": 0.010550425367497068
+    },
+    "0.1": {
+     "risk": 0.040855681746793084,
+     "risk_max_img": 0.2480800917431192,
+     "trusted": 0.7055729012599536,
+     "flagged": 0.2944270987400463,
+     "errors_flagged": 0.8123344506677896,
+     "cap_binding": 0.0,
+     "risk_std": 0.016064675453778203
+    }
+   }
+  }
+ },
+ "shift": {
+  "drive/dice": {
+   "bn": {
+    "unweighted": {
+     "cov_connected": 0.8330360476210229,
+     "cov_disconnected": 0.9339894790429323,
+     "flagged": 0.0845,
+     "auto_error": 0.1607136355361369
+    },
+    "weighted": {
+     "cov_connected": 0.9506989671049902,
+     "cov_disconnected": 0.9509587646360088,
+     "flagged": 0.5104,
+     "auto_error": 0.10059232026143791
+    },
+    "ess": 10869.516309539464
+   },
+   "mcbn": {
+    "unweighted": {
+     "cov_connected": 0.8197411540216535,
+     "cov_disconnected": 0.9337349397590361,
+     "flagged": 0.0726,
+     "auto_error": 0.17022500179713895
+    },
+    "weighted": {
+     "cov_connected": 0.9402663126892604,
+     "cov_disconnected": 0.948328525369082,
+     "flagged": 0.4842166666666667,
+     "auto_error": 0.112741138074773
+    },
+    "ess": 10869.516309539464
+   }
+  },
+  "drive/cldice": {
+   "bn": {
+    "unweighted": {
+     "cov_connected": 0.8183929978844319,
+     "cov_disconnected": 0.9415408111318514,
+     "flagged": 0.08806666666666667,
+     "auto_error": 0.1726186124716719
+    },
+    "weighted": {
+     "cov_connected": 0.9462396814203343,
+     "cov_disconnected": 0.9452740539623282,
+     "flagged": 0.45998333333333336,
+     "auto_error": 0.09990432394061911
+    },
+    "ess": 11133.509530020243
+   },
+   "mcbn": {
+    "unweighted": {
+     "cov_connected": 0.8187870742937736,
+     "cov_disconnected": 0.9401832682844052,
+     "flagged": 0.08086666666666667,
+     "auto_error": 0.17121201131500688
+    },
+    "weighted": {
+     "cov_connected": 0.9363255485958435,
+     "cov_disconnected": 0.9467164432377397,
+     "flagged": 0.44555,
+     "auto_error": 0.11116121080951093
+    },
+    "ess": 11133.509530020243
+   }
+  },
+  "drive/cape": {
+   "bn": {
+    "unweighted": {
+     "cov_connected": 0.8196374497034057,
+     "cov_disconnected": 0.9424741218394705,
+     "flagged": 0.066,
+     "auto_error": 0.1672733761598858
+    },
+    "weighted": {
+     "cov_connected": 0.9775583855311735,
+     "cov_disconnected": 0.9764126930256236,
+     "flagged": 0.73625,
+     "auto_error": 0.08593996840442338
+    },
+    "ess": 7936.225707046919
+   },
+   "mcbn": {
+    "unweighted": {
+     "cov_connected": 0.8177915128385946,
+     "cov_disconnected": 0.9389105718649244,
+     "flagged": 0.05288333333333333,
+     "auto_error": 0.16726204093124747
+    },
+    "weighted": {
+     "cov_connected": 0.9771020865308832,
+     "cov_disconnected": 0.9751399966061429,
+     "flagged": 0.72215,
+     "auto_error": 0.08379821246475916
+    },
+    "ess": 7936.225707046919
+   }
+  },
+  "drive-sparse/sp_none": {
+   "bn": {
+    "unweighted": {
+     "cov_connected": 1.0,
+     "cov_disconnected": 0.9098082470727983,
+     "flagged": 0.5937333333333333,
+     "auto_error": 0.04360846734492944
+    },
+    "weighted": {
+     "cov_connected": 1.0,
+     "cov_disconnected": 0.9703885966400815,
+     "flagged": 0.8212833333333334,
+     "auto_error": 0.03254686188566632
+    },
+    "ess": 4838.1742384346035
+   },
+   "mcbn": {
+    "unweighted": {
+     "cov_connected": 1.0,
+     "cov_disconnected": 0.9084507042253521,
+     "flagged": 0.5881833333333333,
+     "auto_error": 0.04366829900036424
+    },
+    "weighted": {
+     "cov_connected": 1.0,
+     "cov_disconnected": 0.9692855930765315,
+     "flagged": 0.8064333333333333,
+     "auto_error": 0.031169278457034613
+    },
+    "ess": 4838.1742384346035
+   }
+  },
+  "drive-sparse/sp_random": {
+   "bn": {
+    "unweighted": {
+     "cov_connected": 1.0,
+     "cov_disconnected": 0.9328864754793823,
+     "flagged": 0.5054666666666666,
+     "auto_error": 0.02665812887570774
+    },
+    "weighted": {
+     "cov_connected": 1.0,
+     "cov_disconnected": 0.9567283217376549,
+     "flagged": 0.7047666666666667,
+     "auto_error": 0.028790786948176585
+    },
+    "ess": 11438.806659848751
+   },
+   "mcbn": {
+    "unweighted": {
+     "cov_connected": 0.9220973161322438,
+     "cov_disconnected": 0.9269472255218055,
+     "flagged": 0.37905,
+     "auto_error": 0.12392302117722843
+    },
+    "weighted": {
+     "cov_connected": 0.9532915750611856,
+     "cov_disconnected": 0.9535041574749703,
+     "flagged": 0.6189666666666667,
+     "auto_error": 0.1224739742804654
+    },
+    "ess": 11438.806659848751
+   }
+  },
+  "drive-sparse/sp_unc": {
+   "bn": {
+    "unweighted": {
+     "cov_connected": 1.0,
+     "cov_disconnected": 0.952570846767351,
+     "flagged": 0.5369333333333334,
+     "auto_error": 0.02011949323351569
+    },
+    "weighted": {
+     "cov_connected": 1.0,
+     "cov_disconnected": 0.9705582894960122,
+     "flagged": 0.7273666666666667,
+     "auto_error": 0.0212128622080939
+    },
+    "ess": 10566.727664104284
+   },
+   "mcbn": {
+    "unweighted": {
+     "cov_connected": 0.8913800970672419,
+     "cov_disconnected": 0.93237739691159,
+     "flagged": 0.33663333333333334,
+     "auto_error": 0.15160042208934224
+    },
+    "weighted": {
+     "cov_connected": 0.9310158875015556,
+     "cov_disconnected": 0.9553707788902087,
+     "flagged": 0.5515833333333333,
+     "auto_error": 0.1431704144211113
+    },
+    "ess": 10566.727664104284
+   }
+  },
+  "roads/unet_roads_sp": {
+   "bn": {
+    "unweighted": {
+     "cov_connected": 0.9493042238284899,
+     "cov_disconnected": 0.8661243623328277,
+     "flagged": 0.31799866818658934,
+     "auto_error": 0.08431800880415716
+    },
+    "weighted": {
+     "cov_connected": 0.9493042238284899,
+     "cov_disconnected": 0.8661243623328277,
+     "flagged": 0.31799866818658934,
+     "auto_error": 0.08431800880415716
+    },
+    "ess": 39966.97576642283
+   },
+   "mcbn": {
+    "unweighted": {
+     "cov_connected": 0.9244234646211339,
+     "cov_disconnected": 0.8329656693781884,
+     "flagged": 0.25374431439825734,
+     "auto_error": 0.11130688606905731
+    },
+    "weighted": {
+     "cov_connected": 0.9052650341741653,
+     "cov_disconnected": 0.8441334620157176,
+     "flagged": 0.2443482579203395,
+     "auto_error": 0.13199106816128092
+    },
+    "ess": 39966.97576642283
+   }
+  },
+  "roads/toposam_roads_scratch": {
+   "bn": {
+    "unweighted": {
+     "cov_connected": 0.9224135811574962,
+     "cov_disconnected": 1.0,
+     "flagged": 0.9226363133598944,
+     "auto_error": 0.920781968050186
+    },
+    "weighted": {
+     "cov_connected": 0.9040418940846733,
+     "cov_disconnected": 1.0,
+     "flagged": 0.9036353991489938,
+     "auto_error": 0.9142656359803233
+    },
+    "ess": 40667.10266584296
+   },
+   "mcbn": {
+    "unweighted": {
+     "cov_connected": 0.90436150858042,
+     "cov_disconnected": 0.643595753481318,
+     "flagged": 0.38886694281102924,
+     "auto_error": 0.1914233475538811
+    },
+    "weighted": {
+     "cov_connected": 0.899389044598515,
+     "cov_disconnected": 0.6994347166689646,
+     "flagged": 0.43062155054683354,
+     "auto_error": 0.20545121165568164
+    },
+    "ess": 40667.10266584296
+   }
+  },
+  "roads/toposam_roads_fs": {
+   "bn": {
+    "unweighted": {
+     "cov_connected": 1.0,
+     "cov_disconnected": 1.0,
+     "flagged": 1.0,
+     "auto_error": NaN
+    },
+    "weighted": {
+     "cov_connected": 0.9021119142449722,
+     "cov_disconnected": 1.0,
+     "flagged": 0.8952494892834166,
+     "auto_error": 0.857989440793018
+    },
+    "ess": 38339.162402529415
+   },
+   "mcbn": {
+    "unweighted": {
+     "cov_connected": 0.9360955401484978,
+     "cov_disconnected": 1.0,
+     "flagged": 0.9346564937190325,
+     "auto_error": 0.8979186458243371
+    },
+    "weighted": {
+     "cov_connected": 0.8930766583075184,
+     "cov_disconnected": 1.0,
+     "flagged": 0.885514836175664,
+     "auto_error": 0.8574949475033272
+    },
+    "ess": 38339.162402529415
+   }
+  }
+ }
+}
