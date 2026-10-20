@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below and the CAPE paper it builds on."
+title: "Conformal Connectivity: Calibrated, Provable Confidence for Topology in Curvilinear Segmentation"
+authors:
+  - family-names: Mourad
+    given-names: Youssef
+    affiliation: "University of Science and Technology at Zewail City"
+    orcid: "https://orcid.org/0009-0002-7637-8862"
+license: MIT
+repository-code: "https://github.com/Youssef-Ahmed38/conformal-connectivity-cape"
+keywords:
+  - topology-aware segmentation
+  - conformal prediction
+  - conformal risk control
+  - uncertainty quantification
+  - curvilinear structures
+  - Segment Anything
+references:
+  - type: conference-paper
+    title: "CAPE: Connectivity-Aware Path Enforcement Loss for Curvilinear Structure Delineation"
+    authors:
+      - family-names: Esmaeilzadeh
+        given-names: Elyar
+      - family-names: Garaaghaji
+        given-names: Ehsan
+      - family-names: Hallaji Azad
+        given-names: Farzad
+      - family-names: Oner
+        given-names: Doruk
+    collection-title: "Medical Image Computing and Computer Assisted Intervention (MICCAI)"
+    year: 2025

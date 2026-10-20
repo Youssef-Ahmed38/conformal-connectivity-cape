@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Datasets, third-party weights/code: downloaded by `python setup_data.py`
+data/
+external/
+
+# Trained models, logs and large caches (regenerable; see README "Reproduce")
+runs/
+results/**/*.npz
+paper/tables/_cache.json
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,15 @@
+# Tested with Python 3.12 on Windows 11 + CUDA 13 (RTX 5060 Laptop, 8 GB).
+# Install the PyTorch build matching your CUDA version first: https://pytorch.org/get-started/locally/
+torch>=2.4
+numpy>=1.26,<2
+scipy>=1.13
+scikit-image>=0.24
+scikit-learn>=1.5
+opencv-python>=4.9
+networkx>=3.2
+matplotlib>=3.8
+pillow>=10.0
+transformers>=4.45
+huggingface_hub>=0.25
+safetensors>=0.4
+pymupdf>=1.24          # only for rendering figure previews
